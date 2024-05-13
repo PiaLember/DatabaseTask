@@ -1,0 +1,11 @@
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/bin/Debug/net8.0/DatabaseTask.Core.deps.json
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/bin/Debug/net8.0/DatabaseTask.Core.dll
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/bin/Debug/net8.0/DatabaseTask.Core.pdb
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/obj/Debug/net8.0/DatabaseTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/obj/Debug/net8.0/DatabaseTask.Core.AssemblyInfoInputs.cache
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/obj/Debug/net8.0/DatabaseTask.Core.AssemblyInfo.cs
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/obj/Debug/net8.0/DatabaseTask.Core.csproj.CoreCompileInputs.cache
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/obj/Debug/net8.0/DatabaseTask.Core.dll
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/obj/Debug/net8.0/refint/DatabaseTask.Core.dll
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/obj/Debug/net8.0/DatabaseTask.Core.pdb
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/obj/Debug/net8.0/ref/DatabaseTask.Core.dll

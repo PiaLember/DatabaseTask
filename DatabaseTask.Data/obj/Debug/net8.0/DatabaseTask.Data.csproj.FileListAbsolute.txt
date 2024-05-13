@@ -1,0 +1,17 @@
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/bin/Debug/net8.0/DatabaseTask.Data.deps.json
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/bin/Debug/net8.0/DatabaseTask.Data.runtimeconfig.json
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/bin/Debug/net8.0/DatabaseTask.Data.dll
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/bin/Debug/net8.0/DatabaseTask.Data.pdb
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/bin/Debug/net8.0/DatabaseTask.Core.dll
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/bin/Debug/net8.0/DatabaseTask.Core.pdb
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.csproj.AssemblyReference.cache
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.AssemblyInfoInputs.cache
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.AssemblyInfo.cs
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.csproj.CoreCompileInputs.cache
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/Debug/net8.0/Database.12F253CD.Up2Date
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.dll
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/Debug/net8.0/refint/DatabaseTask.Data.dll
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.pdb
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/Debug/net8.0/DatabaseTask.Data.genruntimeconfig.cache
+/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/Debug/net8.0/ref/DatabaseTask.Data.dll
