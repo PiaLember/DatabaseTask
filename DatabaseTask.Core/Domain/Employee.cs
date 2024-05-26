@@ -39,6 +39,10 @@ namespace DatabaseTask.Core.Domain
         [StringLength(100)]
         public string? Comment { get; set; }  
 
+        [ForeignKey("Department")]
+        public int DepartmentId { get; set; }
+        public Department Department { get; set; }
+
         public ICollection<WorkTime> WorkTimes { get; set; }           
     }
 

@@ -34,7 +34,7 @@ namespace DatabaseTask.Core.Domain
         [StringLength(100)]
         public string? Comment { get; set; }
         
-        public ICollection<Department> Departments { get; set; }
+        public ICollection<Department>? Departments { get; set; }
 
     }
 }

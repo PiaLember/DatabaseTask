@@ -4,19 +4,18 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DatabaseTask.Core.Domain
 {
-    public class Company
+    public class Department
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int CompanyId { get; set; }
+        public int DepartmentId { get; set; }
 
-        public int RegistryNumber { get; set; }
-
-        [StringLength(20)]
-        public required string Name { get; set; }
+        [ForeignKey("BranchOffice")]
+        public int BranchOfficeId { get; set; }
+        public BranchOffice? BranchOffice { get; set; }
 
         [StringLength(100)]
-        public required string Address { get; set; }
+        public string? Address { get; set; }
 
         [StringLength(20)]
         public string? ContactPerson { get; set; }
@@ -29,7 +28,7 @@ namespace DatabaseTask.Core.Domain
         [StringLength(100)]
         public string? Comment { get; set; }
         
-        public ICollection<BranchOffice>? BranchOffices { get; set; }
+        public ICollection<Employee>? Employees { get; set; }
 
     }
 }
