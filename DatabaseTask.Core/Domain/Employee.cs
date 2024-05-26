@@ -37,7 +37,9 @@ namespace DatabaseTask.Core.Domain
         public decimal Salary { get; set; }
 
         [StringLength(100)]
-        public string? Comment { get; set; }             
+        public string? Comment { get; set; }  
+
+        public ICollection<WorkTime> WorkTimes { get; set; }           
     }
 
 }
