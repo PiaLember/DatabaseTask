@@ -43,7 +43,9 @@ namespace DatabaseTask.Core.Domain
         public int DepartmentId { get; set; }
         public Department? Department { get; set; }
 
-        public ICollection<WorkTime>? WorkTimes { get; set; }           
+        public ICollection<WorkTime>? WorkTimes { get; set; } 
+        public ICollection<Vacation>? Vacations { get; set; } 
+        public ICollection<SickLeave>? SickLeaves { get; set; }         
     }
 
 }
