@@ -41,9 +41,9 @@ namespace DatabaseTask.Core.Domain
 
         [ForeignKey("Department")]
         public int DepartmentId { get; set; }
-        public Department Department { get; set; }
+        public Department? Department { get; set; }
 
-        public ICollection<WorkTime> WorkTimes { get; set; }           
+        public ICollection<WorkTime>? WorkTimes { get; set; }           
     }
 
 }
