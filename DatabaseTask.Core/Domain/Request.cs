@@ -5,21 +5,26 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DatabaseTask.Core.Domain
 {
-    public class BorrowedItem
+    public class Request
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int BorrowedItemId { get; set; }
+        public int RequestId { get; set; }
+
+        [StringLength(30)]
+        public required string Topic { get; set; }
+
+        [StringLength(300)]
+        public required string Description { get; set; }
 
         [ForeignKey("Employee")]
         public int EmployeeId { get; set; }
 
         [StringLength(30)]
-        public required string ItemName { get; set; }
+        public string? State { get; set; }
 
-        public required DateTime BorrowDate { get; set; }
-
-        public DateTime? ReturnDate { get; set; }
+        [StringLength(30)]
+        public string? Recipient { get; set; }
 
         [StringLength(100)]
         public string? Comment { get; set; }

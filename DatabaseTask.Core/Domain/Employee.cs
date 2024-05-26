@@ -48,7 +48,8 @@ namespace DatabaseTask.Core.Domain
         public ICollection<SickLeave>? SickLeaves { get; set; }  
         public ICollection<HealthCheck>? HealthChecks { get; set; }   
         public ICollection<EmployeesChild>? Children { get; set; }
-        public ICollection<BorrowedItem>? BorrowedItems { get; set; }    
+        public ICollection<BorrowedItem>? BorrowedItems { get; set; } 
+        public ICollection<Request>? Requests { get; set; }   
     }
 
 }
