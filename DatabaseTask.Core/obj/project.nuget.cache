@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6BMvobwlFz3VVMwqGWPP8/UWOwKkT3QulmkVigyYEsdZ02wuDZh1EVQUSFxZJXagW2z4RJqJnyXFK88NTxdIyA==",
+  "dgSpecHash": "qBpSxK1P9uBN7mSH7eVeVXwdE4lj392OzsWCSosJoncCwoyA8GbY5L1pn2knPalSA+Wi2BE6yNXmCGf4CAvG0A==",
   "success": true,
-  "projectFilePath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
+  "projectFilePath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

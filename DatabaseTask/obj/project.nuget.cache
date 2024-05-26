@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aZgeZ9rViRwxltM9yZM5efsKprRGtbQ75QHSp4KrRRbxfFPs9cGB66hdQZ+8WU6zpkqv/25yUfxnuSSrg2rSZw==",
+  "dgSpecHash": "LmQK24tQwk2Ey0hMIoKc4PguMoDkiWvxYq4GauGLOgLFIjjPmy+KNG3J3aocrsSodvMfoDrdyYTtBFWH13SQNg==",
   "success": true,
-  "projectFilePath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask/DatabaseTask.csproj",
+  "projectFilePath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask/DatabaseTask.csproj",
   "expectedPackageFiles": [
     "/Users/pial/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/pial/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

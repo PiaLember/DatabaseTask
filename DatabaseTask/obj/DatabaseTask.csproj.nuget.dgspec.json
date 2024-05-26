@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask/DatabaseTask.csproj": {}
+    "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask/DatabaseTask.csproj": {}
   },
   "projects": {
-    "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
+    "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
+        "projectUniqueName": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
         "projectName": "DatabaseTask.Core",
-        "projectPath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
+        "projectPath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
         "packagesPath": "/Users/pial/.nuget/packages/",
-        "outputPath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/obj/",
+        "outputPath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pial/.nuget/NuGet/NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj": {
+    "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj",
+        "projectUniqueName": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj",
         "projectName": "DatabaseTask.Data",
-        "projectPath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj",
+        "projectPath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj",
         "packagesPath": "/Users/pial/.nuget/packages/",
-        "outputPath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/obj/",
+        "outputPath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pial/.nuget/NuGet/NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
-                "projectPath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj"
+              "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
+                "projectPath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask/DatabaseTask.csproj": {
+    "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask/DatabaseTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask/DatabaseTask.csproj",
+        "projectUniqueName": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask/DatabaseTask.csproj",
         "projectName": "DatabaseTask",
-        "projectPath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask/DatabaseTask.csproj",
+        "projectPath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask/DatabaseTask.csproj",
         "packagesPath": "/Users/pial/.nuget/packages/",
-        "outputPath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask/obj/",
+        "outputPath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pial/.nuget/NuGet/NuGet.Config"
@@ -168,8 +168,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj": {
-                "projectPath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj"
+              "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj": {
+                "projectPath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Data/DatabaseTask.Data.csproj"
               }
             }
           }

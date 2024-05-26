@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {}
+    "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {}
   },
   "projects": {
-    "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
+    "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
+        "projectUniqueName": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
         "projectName": "DatabaseTask.Core",
-        "projectPath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
+        "projectPath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/DatabaseTask.Core.csproj",
         "packagesPath": "/Users/pial/.nuget/packages/",
-        "outputPath": "/Users/pial/Desktop/DatabaseTask-master/DatabaseTask/DatabaseTask.Core/obj/",
+        "outputPath": "/Users/pial/Desktop/THK/Andmebaasid/DatabaseTask/DatabaseTask.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pial/.nuget/NuGet/NuGet.Config"
